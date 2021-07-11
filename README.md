@@ -1,4 +1,4 @@
-# PYtest-Selenium
+# PYtest+Selenium
 1.1 Open project folder via command line.
 
 1.2. Set virtual environment and install all dependencies:
