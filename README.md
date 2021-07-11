@@ -6,6 +6,7 @@
 python -m venv venv
 .\venv\Scripts\activate
 pip install -r requirements.txt
+
 1.3 Run tests
 
 py.test -v -l .\tests\
